@@ -1,1 +1,0 @@
-Tämä on Verkkosivujen Kehittäminen Verkkosivu projekti.
