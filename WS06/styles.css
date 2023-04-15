@@ -42,6 +42,15 @@ article {
     border-left: 1px solid white;
   }
 
+  section{
+    float: left;
+    width: 50%;
+    color: white;
+    height: 230px;
+    padding: 20px;
+    text-align: center;
+  }
+
 .white {
     color: white;
 } 
@@ -91,3 +100,22 @@ ol {
     height: 230px;
     text-align: center;
 }
+
+a:link {
+    color: red;
+}
+
+a:visited{
+    color: blue;
+} 
+
+a:focus {
+    color: purple;
+}
+a:hover {
+    color: burlywood;
+}
+a:active {
+    color: yellow;
+}
+
